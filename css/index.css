@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    
+}
+
+.table-responsive{
+    width: 50%;
+    
+}
+.family{
+    text-align: center;
+    width: 20
+}
+
+.table th { 
+   text-align: center;   
+}
+footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 25px;
+    background-color: #B9F6CA;
+}
